@@ -1,0 +1,12 @@
+.idea
+/.idea/
+target
+*.iws
+*.iml
+*.ipr
+build
+out
+**/src/main/java/configuration/PropertiesVault.java
+/lib/
+.DS_Store
+
