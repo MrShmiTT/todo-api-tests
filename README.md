@@ -27,7 +27,6 @@ The project covers:
 
 ## Technologies Used
 
-- Technologies Used
 - Java 17
 - Maven
 - JUnit 5 for testing
@@ -112,7 +111,7 @@ todo-api-tests/
 │                   ├── checks/
 │                   │   ├── TestChecks.java                 # Common validation checks
 │                   ├── steps/
-│                   │   ├── TestSteps.java                  # Test steps abstraction
+│                   │   ├── TestSteps.java                  # Common methods for tests
 │                   ├── performance/
 │                       ├── PostTodoPerformanceTest.java    # Performance tests for POST /todos
 ├── .gitignore                                              # Git ignore rules
